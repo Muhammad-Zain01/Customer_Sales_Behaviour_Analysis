@@ -20,3 +20,5 @@ A person’s interests and opinions. These will be affected by demographics such
 Psychological factors – Everybody’s response to a particular marketing campaign will be based on their perceptions and attitudes. A person’s ability to comprehend information, their perception of their need, their attitude, will all play a part.
 ##### Social factors:-  
 Peer groups, from family and friends to social media influence. This factor also includes social class, income, and education level.
+
+###### Link of Google Data Studio Dashboard : https://datastudio.google.com/s/rE9RC3Tdh9k
